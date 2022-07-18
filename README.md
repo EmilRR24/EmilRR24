@@ -10,6 +10,10 @@ Languages: Python, Java, JavaScript, HTML5, CSS, SQL
 Frameworks/Libraries: Flask, Jinja2, Spring Boot, jQuery, React, Express, Bootstrap, bcrypt 
 Databases: MySQL, MongoDB, Mongoose 
 Tools: AJAX, Spring Tool Suite, REST API, JSON, PostMan, Socket.io, AWS(EC2), MySQL Workbench, Git, Github, balsamiq, Trello
+
+### What's Next:
+- Projects
+- Job Seeking
 <!--
 **EmilRR24/EmilRR24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
