@@ -6,10 +6,10 @@ Learning, new projects and missions are things that motivate me as person to hel
 
 In the future I see myself being part of many projects in all aspects of tech and industries so that I am able to bring something innovative and unique to my character, leaving a my mark in this ever evolving world.
 
-Languages: Python, Java, JavaScript, HTML5, CSS, SQL 
-Frameworks/Libraries: Flask, Jinja2, Spring Boot, jQuery, React, Express, Bootstrap, bcrypt 
-Databases: MySQL, MongoDB, Mongoose 
-Tools: AJAX, Spring Tool Suite, REST API, JSON, PostMan, Socket.io, AWS(EC2), MySQL Workbench, Git, Github, balsamiq, Trello
+**Languages**: Python, Java, JavaScript, HTML5, CSS, SQL 
+**Frameworks/Libraries**: Flask, Jinja2, Spring Boot, jQuery, React, Express, Bootstrap, bcrypt 
+**Databases**: MySQL, MongoDB, Mongoose 
+**Tools**: AJAX, Spring Tool Suite, REST API, JSON, PostMan, Socket.io, AWS(EC2), MySQL Workbench, Git, Github, balsamiq, Trello
 
 ### What's Next:
 - Projects
